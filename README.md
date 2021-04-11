@@ -1,3 +1,5 @@
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=shubhabanerjee&label=Profile%20views&color=0e75b6&style=flat" alt="shubhabanerjee" /> </p>
+
 - 👋 Hi, I’m shubhabanerjee
 - 👀 I’m interested in Backend Technology
 - 🌱 I’m currently learning DS and Algo
